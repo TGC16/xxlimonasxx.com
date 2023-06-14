@@ -1,0 +1,47 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: skyblue;
+}
+
+h1, h2 {
+  color: #EF2D23; /* Rojo */
+}
+
+header {
+  background-color: #0F1927; /* Azul oscuro */
+  padding: 20px;
+}
+
+nav {
+  background-color: #0F1927; /* Azul oscuro */
+  color: #fff;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #0F1927; /* Azul oscuro */
+  padding: 10px;
+  text-align: center;
+}
